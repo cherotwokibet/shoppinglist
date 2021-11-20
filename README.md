@@ -11,6 +11,7 @@ Just add what you want.
 ## Technologies Used
 
 - create-react-app
+- reactjs
 
 ## To install
 
